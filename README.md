@@ -1,5 +1,6 @@
 # Car-Tracking-Open-CV-For-Traffic-Management
-![vehicle-detection-using-opencv-5-1652641191](https://github.com/wahidpanda/Car-Tracking-Open-CV/assets/110899864/bebc7f1e-065a-44f7-93f8-5f05002113e7)
+
+![Uploading vehicle-detection-using-opencv-5-1652641191.gif…]()
 
 This project is about computer vision technology using to detect number of cars on highway.vision and image processing. It can be used to analyze images and video footage from cameras and other sources, and it has many applications in highway traffic management. Some ways that OpenCV can be used in this field include:
 
